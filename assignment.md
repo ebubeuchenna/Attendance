@@ -12,7 +12,7 @@ A hosting service keeps repositories in place so people can share and work toget
 After first commit:
 HEAD = Index = Working tree
 After editing:
-HEAD = Index ~ Working tree
+HEAD = Index ~ Working tree13
 After staging:
 HEAD ~ Index ~ Working tree
 After second commit:
